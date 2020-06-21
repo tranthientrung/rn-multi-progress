@@ -1,0 +1,37 @@
+{
+  "name": "rn-multi-progress",
+  "version": "1.0.1",
+  "description": "Multi progress for react native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tranthientrung/rn-multi-progress.git"
+  },
+  "keywords": [
+    "react-native-progress-bar",
+    "react-native-progress",
+    "react-native-multi-progress",
+    "rn-multi-progress",
+    "react",
+    "native",
+    "progress",
+    "react",
+    "native",
+    "multi",
+    "progress",
+    "rn",
+    "progress]"
+  ],
+  "author": "Tran Thien Trung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tranthientrung/rn-multi-progress/issues"
+  },
+  "homepage": "https://github.com/tranthientrung/rn-multi-progress#readme",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.59.0"
+  }
+}
