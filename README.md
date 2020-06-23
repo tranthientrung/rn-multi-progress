@@ -2,6 +2,20 @@
 
 React Native Multi Progress
 
+Install:
+
+- npm:
+
+```js
+npm i rn-multi-progress
+```
+
+- yarn:
+
+```js
+yarn add rn-multi-progress
+```
+
 Usage:
 
 ```js
