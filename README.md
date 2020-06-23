@@ -19,9 +19,11 @@ yarn add rn-multi-progress
 Usage:
 
 ```js
+import { CircleProgress } from "rn-multi-progress";
+
 <CircleProgress ref={ref} edge={300} border={50} listenValue={(value) => {}}>
   {children}
-</CircleProgress>
+</CircleProgress>;
 ```
 
 Props:
