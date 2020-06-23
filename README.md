@@ -21,6 +21,8 @@ Usage:
 ```js
 import { CircleProgress } from "rn-multi-progress";
 
+const ref = useRef();
+
 <CircleProgress ref={ref} edge={300} border={50} listenValue={(value) => {}}>
   {children}
 </CircleProgress>;
