@@ -1,6 +1,6 @@
 {
   "name": "rn-multi-progress",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Multi progress for react native",
   "main": "index.js",
   "scripts": {
